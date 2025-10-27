@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { Code, Wrench, Palette, Server, Layers, Star } from "lucide-react";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
@@ -102,8 +102,7 @@ export default function Home() {
               company: "TechStart Inc",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Sarah Chen profile",
-              text: "Working with Subhadeep was a fantastic experience. His attention to detail and technical expertise helped us launch our product ahead of schedule."
+              imageAlt: "Sarah Chen profile"
             },
             {
               id: "2",
@@ -112,8 +111,7 @@ export default function Home() {
               company: "InnovateLab",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/3755824/pexels-photo-3755824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Michael Rodriguez profile",
-              text: "The full-stack solution Subhadeep built for us exceeded our expectations. Clean code, great performance, and excellent communication throughout."
+              imageAlt: "Michael Rodriguez profile"
             },
             {
               id: "3",
@@ -122,8 +120,7 @@ export default function Home() {
               company: "DataFlow Solutions",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/5990037/pexels-photo-5990037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Emily Johnson profile",
-              text: "Subhadeep's backend architecture perfectly scaled with our growing user base. His expertise in modern technologies is impressive."
+              imageAlt: "Emily Johnson profile"
             },
             {
               id: "4",
@@ -132,8 +129,7 @@ export default function Home() {
               company: "WebCraft Agency",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "David Park profile",
-              text: "Outstanding work on our client projects. Subhadeep consistently delivers high-quality code and innovative solutions."
+              imageAlt: "David Park profile"
             }
           ]}
         />
